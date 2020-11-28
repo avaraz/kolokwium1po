@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\kol.3\kol.3\bin\Debug\netcoreapp3.1\kol.3.exe
+C:\Users\Asus\Desktop\kol.3\kol.3\bin\Debug\netcoreapp3.1\kol.3.deps.json
+C:\Users\Asus\Desktop\kol.3\kol.3\bin\Debug\netcoreapp3.1\kol.3.runtimeconfig.json
+C:\Users\Asus\Desktop\kol.3\kol.3\bin\Debug\netcoreapp3.1\kol.3.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\kol.3\kol.3\bin\Debug\netcoreapp3.1\kol.3.dll
+C:\Users\Asus\Desktop\kol.3\kol.3\bin\Debug\netcoreapp3.1\kol.3.pdb
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.dll
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.pdb
+C:\Users\Asus\Desktop\kol.3\kol.3\obj\Debug\netcoreapp3.1\kol.3.genruntimeconfig.cache
