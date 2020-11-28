@@ -48,8 +48,6 @@ namespace kol._3
                     powtorka += 1;
                 }
             }
-
-            //Wypisz wynik
             Console.WriteLine("Liczba {0} występuje w tabeli {1}.", max, powtorka);
         }
     }
